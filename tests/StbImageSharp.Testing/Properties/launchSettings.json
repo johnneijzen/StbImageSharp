@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StbImageSharp.Testing": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\JohnMainPc\\Documents\\OsuSkin\\FileOptimizer"
+    }
+  }
+}
